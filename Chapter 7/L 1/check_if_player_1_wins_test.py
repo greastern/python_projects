@@ -1,4 +1,4 @@
-from comparison_operator import *
+from check_if_player_1_wins import *
 
 run_cases = [
     (5, 6, False),

@@ -1,4 +1,4 @@
-from Comparison_Operator_Evaluations import *
+from Compare_heights import *
 
 run_cases = [
     (5, 5, 7, 5, (True, True, False)),
